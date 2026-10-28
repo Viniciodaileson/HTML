@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+.campo{
+    height: 30px;
+    width: 200px;
+}
+#mensagem{
+    height: 100px;
+    width: 200px;
+}
+form label {
+    font-weight: bold;
+    color: red
+}
